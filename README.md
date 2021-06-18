@@ -60,9 +60,9 @@ valor.
 
 ##### ¿Cómo se calcula?
 El algoritmo calcula los dolares, yenes y euros de la siguiente manera:
-- $dolares=pesos_col*0.00027$
-- $$yenes=pesos_col*0.029$$
-- $$euros=pesos_col*0.00023$$
+- dolares=pesos_col*0.00027
+- yenes=pesos_col*0.029
+- euros=pesos_col*0.00023
 
 La implementación puede verse en el archivo: [moneda.py](moneda.py)
 
@@ -72,15 +72,15 @@ Para el problema numero 5 se desea crear un algoritmo para calcular el área de 
 altura es de x y la base es de y.
 
 #### Los datos de entrada son: 
-- $$x=base$$
-- $$y=altura$$
+- x=base
+- y=altura
 
 #### Los datos de salida son:
 - Area del triangulo
 
 ##### ¿Cómo se calcula?
-Se calcula en base a la fórmula para calcular el área de un triángulo la cual es $$base*altura/2$$, 
-es decir $$x*y/2$$
+Se calcula en base a la fórmula para calcular el área de un triángulo la cual es BASExALTURA/2, 
+es decir (X x Y)/2
 Finalmente el algoritmo nos arroja el resultado del área con unidades de cm^2.
 La implementación puede verse en el archivo: [triangulo.py](triangulo.py)
 
