@@ -17,7 +17,7 @@ Para calcular la nota final de un curso, se realizó un algoritmo el cual debió
 #### Los datos de salida son:
 - Nota final del curso
 
-##### ¿Cómo se calcula?
+#### ¿Cómo se calcula?
 El algoritmo calcula la nota final del curso de la siguiente manera: 
 Nota_final=Nota_parcial_1*25%+Nota_parcial_*25%+nota_taller*20%+nota_proyecto*30%
 
@@ -34,7 +34,7 @@ Elaborar un algoritmo que realice la transformación de grados Celsius a Fahrenh
 #### Los datos de salida son:
 - Grados Fahrenheit
 
-##### ¿Cómo se calcula?
+#### ¿Cómo se calcula?
 El algoritmo calcula los grados Fahrenheit de la siguiente manera:
 
 grados_f=(32-grados_celsius)*(5/9)
@@ -50,7 +50,7 @@ tasa representativa de cada moneda (actual) y que la casa de cambio, incluye un 
 valor.
 
 #### Los datos de entrada son: 
--Pesos colombianos
+- Pesos colombianos
 
 #### Los datos de salida son:
 
@@ -58,7 +58,7 @@ valor.
 - Yenes
 - Euros
 
-##### ¿Cómo se calcula?
+#### ¿Cómo se calcula?
 El algoritmo calcula los dolares, yenes y euros de la siguiente manera:
 - dolares=pesos_col*0.00027
 - yenes=pesos_col*0.029
@@ -78,7 +78,7 @@ altura es de x y la base es de y.
 #### Los datos de salida son:
 - Area del triangulo
 
-##### ¿Cómo se calcula?
+#### ¿Cómo se calcula?
 Se calcula en base a la fórmula para calcular el área de un triángulo la cual es BASExALTURA/2, 
 es decir (X x Y)/2
 Finalmente el algoritmo nos arroja el resultado del área con unidades de cm^2.
