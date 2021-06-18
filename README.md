@@ -60,7 +60,7 @@ valor.
 
 ##### ¿Cómo se calcula?
 El algoritmo calcula los dolares, yenes y euros de la siguiente manera:
-- $$dolares=pesos_col*0.00027$$
+- $dolares=pesos_col*0.00027$
 - $$yenes=pesos_col*0.029$$
 - $$euros=pesos_col*0.00023$$
 
